@@ -2,5 +2,5 @@ __pycache__/
 .venv/
 .DS_Store
 .env
-.sqlite3.db
+sqlite3.db
 *.pyc
