@@ -19,7 +19,6 @@ app = FastAPI(
     title="Task Manager API",
     description="An API to manage tasks with CRUD operations",
     version="1.0.0",
-    debug=True,
 )
 
 app.include_router(tasks_router)
